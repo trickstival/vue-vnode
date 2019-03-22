@@ -15,4 +15,7 @@ Vue.use(VVNode)
 ```html
 <v-node :vnode="$createElement('h2', `I'm working :D`)" />
 ```
-# vue-vnode
+
+Tip: you can also use it with JSX:
+https://github.com/vuejs/babel-plugin-transform-vue-jsx
+

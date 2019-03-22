@@ -1,0 +1,8 @@
+{
+  "name": "vue-vnode",
+  "version": "0.0.1",
+  "description": "A component that renders vnodes",
+  "main": "index.js",
+  "author": "trickstival",
+  "license": "MIT"
+}
