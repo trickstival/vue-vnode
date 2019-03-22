@@ -13,7 +13,10 @@ import VVNode from 'vue-vnode'
 Vue.use(VVNode)
 ```
 ```html
-<v-node :vnode="$createElement('h2', `I'm working :D`)" />
+<template>
+    <v-node :vnode="$createElement('h2', `I'm working :D`)" />
+</template>
+
 ```
 
 Tip: you can also use it with JSX:
