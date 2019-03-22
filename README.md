@@ -6,6 +6,7 @@ and renders it
 ## Usage
 ```bash
 yarn add vue-vnode
+# or
 npm i --save vue-vnode
 ```
 ```js
